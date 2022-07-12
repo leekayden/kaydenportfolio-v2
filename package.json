@@ -1,12 +1,12 @@
 {
   "name": "kaydenportfolio",
-  "author": "Creative Tim https://www.creative-tim.com/",
-  "description": "Vue Material Kit",
+  "author": "Kayden Lee",
+  "description": "KaydenPortfolio",
   "version": "2.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
-    "build": "vue-cli-service build && gulp licenses",
+    "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "dev": "npm run serve",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm run dev"
@@ -29,25 +29,14 @@
     "@vue/cli-service": "4.1.1",
     "@vue/eslint-config-prettier": "6.0.0",
     "babel-eslint": "10.0.3",
+    "es6-promise": "*",
     "eslint": "6.7.2",
     "eslint-plugin-prettier": "3.1.1",
     "eslint-plugin-vue": "6.0.1",
-    "gulp": "^4.0.2",
-    "gulp-append-prepend": "1.0.8",
     "prettier": "1.19.1",
     "sass": "1.23.7",
     "sass-loader": "8.0.0",
-    "vue-template-compiler": "2.6.10",
-    "gulp": "*",
-    "gulp-plumber": "*",
-    "gulp-rename": "*",
-    "gulp-autoprefixer": "*",
-    "es6-promise": "*",
-    "gulp-csscomb": "*",
-    "gulp-merge-media-queries": "*",
-    "gulp-csslint": "*",
-    "gulp-clean-css": "*",
-    "gulp-uglify": "*"
+    "vue-template-compiler": "2.6.10"
   },
   "main": ".eslintrc.js",
   "repository": {
