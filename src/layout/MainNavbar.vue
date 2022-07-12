@@ -51,7 +51,7 @@
                         </li>
                         <li>
                           <a
-                            href="https://demos.creative-tim.com/vue-material-kit/documentation/"
+                            href="https://demos.portfolio.kaydentech.com/vue-material-kit/documentation/"
                           >
                             <i class="material-icons">content_paste</i>
                             <p>Documentation</p>
@@ -64,7 +64,7 @@
               </li>
 
               <md-list-item
-                href="https://demos.creative-tim.com/vue-material-kit/documentation/"
+                href="https://demos.portfolio.kaydentech.com/vue-material-kit/documentation/"
                 target="_blank"
                 v-if="showDownload"
               >

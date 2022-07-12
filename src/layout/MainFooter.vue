@@ -8,22 +8,22 @@
       <nav>
         <ul>
           <li>
-            <a href="https://www.creative-tim.com">
-              Creative Tim
+            <a href="https://portfolio.kaydentech.com">
+              Kayden Lee
             </a>
           </li>
           <li>
-            <a href="https:///presentation.creative-tim.com">
+            <a href="https:///presentation.portfolio.kaydentech.com">
               About Us
             </a>
           </li>
           <li>
-            <a href="https:///blog.creative-tim.com">
+            <a href="https:///blog.portfolio.kaydentech.com">
               Blog
             </a>
           </li>
           <li>
-            <a href="https://www.creative-tim.com/license">
+            <a href="https://portfolio.kaydentech.com/license">
               Licenses
             </a>
           </li>
@@ -31,7 +31,7 @@
       </nav>
       <div class="copyright">
         &copy; {{ year }}, made with <md-icon>favorite</md-icon> by
-        <a href="https://www.creative-tim.com/" target="_blank">Creative Tim</a>
+        <a href="/" target="_blank">Kayden Lee</a>
         for a better web.
       </div>
     </div>
