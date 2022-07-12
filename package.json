@@ -1,8 +1,8 @@
 {
-  "name": "vue-material-kit",
+  "name": "kaydenportfolio",
   "author": "Creative Tim https://www.creative-tim.com/",
   "description": "Vue Material Kit",
-  "version": "1.2.2",
+  "version": "2.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
@@ -32,11 +32,21 @@
     "eslint": "6.7.2",
     "eslint-plugin-prettier": "3.1.1",
     "eslint-plugin-vue": "6.0.1",
+    "gulp": "^4.0.2",
+    "gulp-append-prepend": "1.0.8",
     "prettier": "1.19.1",
     "sass": "1.23.7",
     "sass-loader": "8.0.0",
-    "vue-template-compiler": "2.6.10",
-    "gulp": "4.0.2",
-    "gulp-append-prepend": "1.0.8"
-  }
+    "vue-template-compiler": "2.6.10"
+  },
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leekayden/kaydenportfolio-v2.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leekayden/kaydenportfolio-v2/issues"
+  },
+  "homepage": "https://github.com/leekayden/kaydenportfolio-v2#readme"
 }
