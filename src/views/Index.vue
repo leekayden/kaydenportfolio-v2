@@ -177,7 +177,7 @@
                 to navigate to our website where you can find the kit. Our
                 friends from
                 <a
-                  href="https://themeisle.com/?utm_campaign=mkfree-hestia&amp;utm_source=creativetim&amp;utm_medium=website"
+                  href=""
                   target="_blank"
                   >ThemeIsle</a
                 >
@@ -193,7 +193,7 @@
                 ><i class="fab fa-html5"></i> Free HTML Download</md-button
               >
               <md-button
-                href="https://themeisle.com/themes/hestia/?utm_campaign=mkfree-hestia&amp;utm_source=creativetim&amp;utm_medium=website"
+                href=""
                 class="md-success md-lg"
                 target="_blank"
                 ><i class="fab fa-wordpress"></i> Wordpress Theme</md-button
