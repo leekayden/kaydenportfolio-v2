@@ -21,7 +21,17 @@
         <div class="container">
           <div class="title">
             <h2>Who am I?</h2>
-            <h4>I am a coding enthusiast especially in the area of fullstack web development. I have accomplished many projects that I am proud of in my life.</h4>
+            <h4>
+              I am a coding enthusiast especially in the area of fullstack web
+              development. I have accomplished many projects that I am proud of
+              in my life. I love tech and programming, specifically web
+              development. I know a variety of programming languages such as
+              HTML, CSS, JavaScript, Python, C++ and C#. My most preferred web
+              framework is React, and I mostly use MySQL for my databases. I
+              also love volunteering as I can give back to the society. For
+              example, I volunteer at Engineering Good to repair donated
+              computers and distribute it to those who need it.
+            </h4>
           </div>
           <basic-elements></basic-elements>
         </div>
@@ -176,11 +186,7 @@
                 Cause if you do, it can be yours for FREE. Hit the buttons below
                 to navigate to our website where you can find the kit. Our
                 friends from
-                <a
-                  href=""
-                  target="_blank"
-                  >ThemeIsle</a
-                >
+                <a href="" target="_blank">ThemeIsle</a>
                 created a Wordpress Theme which can be also downloaded for free.
                 Start a new project or give an old Bootstrap project a new look!
               </h4>
@@ -192,10 +198,7 @@
                 class="md-success md-lg"
                 ><i class="fab fa-html5"></i> Free HTML Download</md-button
               >
-              <md-button
-                href=""
-                class="md-success md-lg"
-                target="_blank"
+              <md-button href="" class="md-success md-lg" target="_blank"
                 ><i class="fab fa-wordpress"></i> Wordpress Theme</md-button
               >
             </div>
@@ -288,50 +291,50 @@ export default {
     Notifications,
     TypographyImages,
     JavascriptComponents,
-    LoginCard
+    LoginCard,
   },
   name: "index",
   bodyClass: "index-page",
   props: {
     image: {
       type: String,
-      default: require("@/assets/img/vue-mk-header.jpg")
+      default: require("@/assets/img/vue-mk-header.jpg"),
     },
     leaf4: {
       type: String,
-      default: require("@/assets/img/leaf4.png")
+      default: require("@/assets/img/leaf4.png"),
     },
     leaf3: {
       type: String,
-      default: require("@/assets/img/leaf3.png")
+      default: require("@/assets/img/leaf3.png"),
     },
     leaf2: {
       type: String,
-      default: require("@/assets/img/leaf2.png")
+      default: require("@/assets/img/leaf2.png"),
     },
     leaf1: {
       type: String,
-      default: require("@/assets/img/leaf1.png")
+      default: require("@/assets/img/leaf1.png"),
     },
     signup: {
       type: String,
-      default: require("@/assets/img/city.jpg")
+      default: require("@/assets/img/city.jpg"),
     },
     landing: {
       type: String,
-      default: require("@/assets/img/landing.jpg")
+      default: require("@/assets/img/landing.jpg"),
     },
     profile: {
       type: String,
-      default: require("@/assets/img/profile.jpg")
-    }
+      default: require("@/assets/img/profile.jpg"),
+    },
   },
   data() {
     return {
       firstname: null,
       email: null,
       password: null,
-      leafShow: false
+      leafShow: false,
     };
   },
   methods: {
@@ -341,19 +344,19 @@ export default {
       } else {
         this.leafShow = true;
       }
-    }
+    },
   },
   computed: {
     headerStyle() {
       return {
-        backgroundImage: `url(${this.image})`
+        backgroundImage: `url(${this.image})`,
       };
     },
     signupImage() {
       return {
-        backgroundImage: `url(${this.signup})`
+        backgroundImage: `url(${this.signup})`,
       };
-    }
+    },
   },
   mounted() {
     this.leafActive();
@@ -361,7 +364,7 @@ export default {
   },
   beforeDestroy() {
     window.removeEventListener("resize", this.leafActive);
-  }
+  },
 };
 </script>
 <style lang="scss">
