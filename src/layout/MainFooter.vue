@@ -32,7 +32,7 @@
       <div class="copyright">
         &copy; {{ year }}, made with <md-icon>favorite</md-icon> by
         <a href="/" target="_blank">Kayden Lee</a>
-        for a better web.
+        built with web technologies
       </div>
     </div>
   </footer>

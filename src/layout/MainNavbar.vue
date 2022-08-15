@@ -232,8 +232,8 @@ export default {
     scrollListener() {
       resizeThrottler(this.handleScroll);
     },
-    scrollToElement() {
-      let element_id = document.getElementById("downloadSection");
+    scrollToElement(section) {
+      let element_id = document.getElementById(section);
       if (element_id) {
         element_id.scrollIntoView({ block: "end", behavior: "smooth" });
       }
