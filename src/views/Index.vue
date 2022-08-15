@@ -25,7 +25,7 @@
               I am a coding enthusiast especially in the area of fullstack web
               development. I have accomplished many projects that I am proud of
               in my life. I love tech and programming, specifically web
-              development. I know a variety of programming languages such as
+              development. I know an array of programming languages such as
               HTML, CSS, JavaScript, Python, C++ and C#. My most preferred web
               framework is React, and I mostly use MySQL for my databases. I
               also love volunteering as I can give back to the society. For

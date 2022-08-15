@@ -76,13 +76,13 @@
                         data-toggle="dropdown"
                       >
                         <i class="material-icons">view_carousel</i>
-                        <p>Examples</p>
+                        <p>Components</p>
                       </md-button>
                       <ul class="dropdown-menu dropdown-with-icons">
                         <li>
                           <a href="#/landing">
                             <i class="material-icons">view_day</i>
-                            <p>Landing Page</p>
+                            <p>Project Gallery</p>
                           </a>
                         </li>
                         <li>
