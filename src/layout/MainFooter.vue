@@ -13,7 +13,7 @@
             </a>
           </li>
           <li>
-            <a href="https:///presentation.portfolio.kaydentech.com">
+            <a href="https:///portfolio.kaydentech.com/about">
               About Us
             </a>
           </li>

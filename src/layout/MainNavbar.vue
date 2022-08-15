@@ -8,7 +8,7 @@
   >
     <div class="md-toolbar-row md-collapse-lateral">
       <div class="md-toolbar-section-start">
-        <h3 class="md-title">KaydenPortfolio</h3>
+        <a class="md-title" href="/">KaydenPortfolio</a>
       </div>
       <div class="md-toolbar-section-end">
         <md-button
