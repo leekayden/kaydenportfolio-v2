@@ -103,30 +103,21 @@
                 </a>
               </li>
 
-              <md-list-item
-                href="https://github.com/"
-                target="_blank"
-              >
-                <i class="fab fa-twitter"></i>
+              <md-list-item href="https://github.com/" target="_blank">
+                <i class="fab fa-github"></i>
                 <p class="hidden-lg">Github</p>
                 <md-tooltip md-direction="bottom"
                   >Follow me on GitHub</md-tooltip
                 >
               </md-list-item>
-              <md-list-item
-                href="https://www.facebook.com/"
-                target="_blank"
-              >
+              <md-list-item href="https://www.facebook.com/" target="_blank">
                 <i class="fab fa-facebook-square"></i>
                 <p class="hidden-lg">Facebook</p>
                 <md-tooltip md-direction="bottom"
                   >Like me on Facebook</md-tooltip
                 >
               </md-list-item>
-              <md-list-item
-                href="https://www.instagram.com/"
-                target="_blank"
-              >
+              <md-list-item href="https://www.instagram.com/" target="_blank">
                 <i class="fab fa-instagram"></i>
                 <p class="hidden-lg">Instagram</p>
                 <md-tooltip md-direction="bottom"
