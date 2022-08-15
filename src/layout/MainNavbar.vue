@@ -103,7 +103,10 @@
                 </a>
               </li>
 
-              <md-list-item href="https://github.com/" target="_blank">
+              <md-list-item
+                href="https://github.com/leekayden/"
+                target="_blank"
+              >
                 <i class="fab fa-github"></i>
                 <p class="hidden-lg">Github</p>
                 <md-tooltip md-direction="bottom"

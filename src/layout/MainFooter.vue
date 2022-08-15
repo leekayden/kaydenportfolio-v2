@@ -30,9 +30,9 @@
         </ul>
       </nav>
       <div class="copyright">
-        &copy; {{ year }}, made with <md-icon>favorite</md-icon> by
+        &copy; {{ year }} Kayden Lee | Made with <md-icon>favorite</md-icon> by
         <a href="/" target="_blank">Kayden Lee</a>
-        built with web technologies
+        | Built with web technologies
       </div>
     </div>
   </footer>
