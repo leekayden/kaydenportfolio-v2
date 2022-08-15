@@ -32,6 +32,7 @@
               example, I volunteer at Engineering Good to repair donated
               computers and distribute it to those who need it.
             </h4>
+            <code>> whoami</code>
           </div>
           <basic-elements></basic-elements>
         </div>
