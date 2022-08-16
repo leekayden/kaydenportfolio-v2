@@ -40,13 +40,19 @@
                         data-toggle="dropdown"
                       >
                         <i class="material-icons">apps</i>
-                        <p>Components</p>
+                        <p>Apps</p>
                       </md-button>
                       <ul class="dropdown-menu dropdown-with-icons">
                         <li>
                           <a href="#/">
-                            <i class="material-icons">layers</i>
-                            <p>All Components</p>
+                            <i class="material-icons">map</i>
+                            <p>CloudserveMindmaps</p>
+                          </a>
+                        </li>
+                        <li>
+                          <a href="#/">
+                            <i class="material-icons">dynamicform</i>
+                            <p>CloudserveForms</p>
                           </a>
                         </li>
                       </ul>
@@ -60,7 +66,7 @@
                 @click="scrollToElement('contactSection')"
               >
                 <i class="material-icons">call</i>
-                <p>Download</p>
+                <p>Contact us</p>
               </md-list-item>
 
               <li class="md-list-item">
