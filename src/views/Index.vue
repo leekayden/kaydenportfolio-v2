@@ -178,7 +178,7 @@
           </div>
         </div>
       </div>
-      <div class="section section-download" id="downloadSection">
+      <div class="section section-download" id="contactSection">
         <div class="container">
           <div class="md-layout text-center">
             <div class="md-layout-item md-size-66 md-small-size-100 mx-auto">

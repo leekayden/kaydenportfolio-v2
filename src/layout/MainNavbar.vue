@@ -57,9 +57,9 @@
 
               <md-list-item
                 href="javascript:void(0)"
-                @click="scrollToElement('downloadSection')"
+                @click="scrollToElement('contactSection')"
               >
-                <i class="material-icons">cloud_download</i>
+                <i class="material-icons">call</i>
                 <p>Download</p>
               </md-list-item>
 
